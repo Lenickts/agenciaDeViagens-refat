@@ -1,6 +1,7 @@
-# Projeto Agencia de Viagens
-O intuito do projeto é praticar conceitos essenciais de desenvolvimento web:
+# Projeto Agencia de Viagens - Refatorado
+Projeto refatorado para utilização da metodologia BEM.
 
+- ✅ **Metodologia BEM** (Block, Element, Modifier)
 - ✅ Responsividade avançada com media queries
 - ✅ Layouts flexíveis com CSS Grid & Flexbox
 - ✅ Unidades relativas (rem, %, vh/vw) para adaptação perfeita
